@@ -29,9 +29,3 @@ Consolidated redundant CSS selectors and properties
 Added alt attributes to images
 ```
 
-## Horiseon Website URL
-
-```
-[link](https://nguyendoan85.github.io/Horiseon-Challenge/)
-<a href="https://nguyendoan85.github.io/Horiseon-Challenge/" target="_blank">Horiseon</a>
-```
