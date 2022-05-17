@@ -28,3 +28,9 @@ Removed unnecessary CSS classes
 Consolidated redundant CSS selectors and properties
 Added alt attributes to images
 ```
+
+## Horiseon Website URL
+
+```
+<a href="https://nguyendoan85.github.io/Horiseon-Challenge/"> Horiseon </a>
+```
